@@ -52,4 +52,4 @@ To use this API, you can make HTTP requests to the following endpoints:
 
 ## How to test
 
-To test this API, you can use tools like Postman, Insomnia or Curl. You can also access the interactive API documentation at `http://localhost:8080/` to see sample requests and responses.
+To test this API, you can use tools like Postman, Insomnia or Curl
